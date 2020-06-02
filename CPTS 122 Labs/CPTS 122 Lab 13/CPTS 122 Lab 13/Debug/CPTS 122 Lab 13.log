@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\elijah\documents\visual studio 2015\projects\cpts 122 lab 13\cpts 122 lab 13\main.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Fox.cpp
+  Generating Code...
+  CPTS 122 Lab 13.vcxproj -> c:\users\elijah\documents\visual studio 2015\Projects\CPTS 122 Lab 13\Debug\CPTS 122 Lab 13.exe

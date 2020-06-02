@@ -1,0 +1,8 @@
+﻿  source.c
+c:\users\elijah\documents\visual studio 2015\projects\cpts 122 lab4\cpts 122 lab4\source.c(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\elijah\documents\visual studio 2015\projects\cpts 122 lab4\cpts 122 lab4\source.c(43): warning C4133: '=': incompatible types - from 'node *' to 'Node *'
+c:\users\elijah\documents\visual studio 2015\projects\cpts 122 lab4\cpts 122 lab4\source.c(59): warning C4133: '=': incompatible types - from 'node *' to 'Node *'
+  main.c
+  Generating Code...
+  Cpts 122 Lab4.vcxproj -> c:\users\elijah\documents\visual studio 2015\Projects\Cpts 122 Lab4\Debug\Cpts 122 Lab4.exe
